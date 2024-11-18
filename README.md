@@ -54,7 +54,7 @@
 <ul>
     <li><strong>Accessibility:</strong> The simplified rules and quicker gameplay make it accessible to younger audiences and those new to board games. It can be enjoyed in a shorter time frame, making it ideal for family game nights or casual gatherings.</li>
     <li><strong>Social Interaction:</strong> The fast-paced nature of the game encourages social interaction and negotiation, key components that have always made Monopoly a favorite among friends and family. Players must think on their feet, making deals and strategizing in real-time.</li>
-    <li><strong>Digital Integration:</strong> As part of a broader trend in gaming, Monopoly Go Dice can also be adapted for digital platforms. This digital version can include online multiplayer options, allowing friends and family to connect and play from different locations. The integration of technology can enhance the experience with animations, sound effects, and interactive elements.</li>
+    <li><strong>Digital Integration:</strong> As part of a broader trend in gaming, Monopoly Go Dice can also be adapted for digital platforms. This digital version can include online multiplayer options, allowing friends and family to connect and play from different locations. The integration <a href="https://monopolygodice.org/">https://monopolygodice.org/</a> of technology can enhance the experience with animations, sound effects, and interactive elements.</li>
 </ul>
 
 <h2>Conclusion</h2>
